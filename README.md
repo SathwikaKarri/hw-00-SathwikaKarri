@@ -6,7 +6,7 @@ This repo contains the files and folders:
 
 -   `README.md`: the current file
 -   `meet_the_toolkit.Rproj`: the RStudio project file
--   `meet-the-toolkit.qmd`: the Quarto markdown document (main file with analysis)
+-   `meet-the-toolkit.qmd`: the Quarto markdown document    (main file with analysis)
 -   `meet-the-toolkit.html`: HTML file with the output from `meet-the-toolkit.qmd`
 -   `.gitignore`: internal file which controls the files that are tracked in version control
 -   `data/un_votes.csv`: dataset in comma separated values format
