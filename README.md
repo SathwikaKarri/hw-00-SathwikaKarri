@@ -1,5 +1,4 @@
 # Meet the Toolkit
-# homework
 
 This repo contains the material for our first code-along. To proceed, you need to install all the software on your machine. You can find the instructions on our course website: <https://datavizaz.org/guides/install.html>.
 
